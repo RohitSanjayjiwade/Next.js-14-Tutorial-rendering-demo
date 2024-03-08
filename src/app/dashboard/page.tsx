@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 export default function DashboardPage(){
-	console.log("Dashboard Client ");
+	console.log("Dashboard Client Component");
 	const [name, setName] = useState("")
 	return( 
 
